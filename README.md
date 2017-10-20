@@ -1,2 +1,2 @@
 # XHPhotoPicker
-图片选择
+图片选择器
